@@ -13,6 +13,7 @@ I'm graduate in Computer Engineering and self-taught developer from Granada, Spa
 
 **Languages and tools**
 
+<p>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
@@ -32,8 +33,10 @@ I'm graduate in Computer Engineering and self-taught developer from Granada, Spa
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+</p>
 
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajf97&show_icons=true)
+<p>
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ajf97&show_icons=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajf97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
