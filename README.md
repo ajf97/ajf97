@@ -35,7 +35,7 @@ I'm graduate in Computer Engineering and self-taught developer from Granada, Spa
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 </p>
 
-<p>
+<p align="middle">
  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ajf97&show_icons=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajf97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
