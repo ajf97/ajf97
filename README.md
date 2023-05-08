@@ -11,28 +11,28 @@ I'm graduate in Computer Engineering and self-taught developer from Granada, Spa
 - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/ajf97/)
 - ⚡ Fun fact: I ❤️ 🍕
 
-**Languages and tools**
+**Stack**
 
 <p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
-<img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=flat&logo=scala&logoColor=white"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D"/>
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
-<img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=flat&logo=ruby-on-rails&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat&logo=numpy&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=flat&logo=numpy&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat&logo=Keras&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23D00000.svg?&style=flat&logo=PyTorch&logoColor=white&color=EE4C2C"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23D00000.svg?&style=flat&logo=Streamlit&logoColor=white&color=FF4B4B"/>
+<img alt="Spark" src="https://img.shields.io/badge/Spark-%23D00000.svg?&style=flat&logo=ApacheSpark&logoColor=white&color=E25A1C"/>
+<img alt="DVC" src="https://img.shields.io/badge/DVC-%23D00000.svg?&style=flat&logo=DVC&logoColor=white&color=13ADC7"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23D00000.svg?&style=flat&logo=MongoDB&logoColor=white&color=747A248"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23D00000.svg?&style=flat&logo=PostgreSQL&logoColor=white&color=4169E1"/>
+
+
+  
+  
+ 
 </p>
 
 
