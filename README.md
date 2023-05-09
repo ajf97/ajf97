@@ -1,15 +1,12 @@
-<h2 align="center">Hi! I'm Alejandro <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<h2 align="center">Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Alejandro</h2>
 
-I'm graduate in Computer Engineering and self-taught developer from Granada, Spain. My fields of interests are relationated with Data Science and Software Development. I worked as web developer of an intership program using Rails and Vue. Some languages of my technology stack are Python, C++, Ruby and SQL. I specially like working with Agile methodologies and learn from experience and errors for improve quality of code and the projects I build. 
+I'm a Computer Engineer and self-taught developer from Granada, Spain. My fields of interests are relationated with Data Science and Software Development. Some of the languages in my technology stack include Python, SQL, PyTorch and Keras, among others. I particularly enjoy working with Agile methodologies and learning from experience and errors to improve the quality of my code and the projects I build. I'm always looking for new challenges and opportunities to grow as a professional in this field.
+
+I love working on projects that can be useful for other people, such as creating a CAD system to detect calcifications in mammograms, a classification model for histological images, and a segmentation model for triple-negative breast cancer cells using state-of-the-art deep learning architectures.
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Web Scraping and Data Science.
-- 💬 Ask me about anything related to Python, Deep Learning and anything you need.
 - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/ajf97/)
-- ⚡ Fun fact: I ❤️ 🍕
 
 **Stack**
 
